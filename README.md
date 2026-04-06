@@ -223,58 +223,13 @@ Não há problemas conhecidos no momento. Se encontrar algum bug, por favor [abr
 - [ ] Modo offline (PWA)
 - [ ] Subtarefas
 - [ ] Arrastar e soltar para reordenar
-- [ ] Exportar/Importar dados
-
----
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-
-1. Fazer um Fork do projeto
-2. Criar uma Branch para sua Feature (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
-4. Push para a Branch (`git push origin feature/MinhaFeature`)
-5. Abrir um Pull Request
+- [ ] Exportar/Importar 
 
 ---
 
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
----
-
-## 👨‍💻 Autor
-
-**Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@example.com
-
----
-
-## 🌟 Mostre seu Apoio
-
-Se este projeto te ajudou, considere dar uma ⭐️!
-
----
-
-## 📸 Screenshots
-
-### Desktop
-![Desktop View](https://via.placeholder.com/800x400/1a1a2e/7b68ee?text=Desktop+View)
-
-### Mobile
-![Mobile View](https://via.placeholder.com/300x600/1a1a2e/7b68ee?text=Mobile+View)
-
----
-
-## 🙏 Agradecimentos
-
-- Inspiração de design: Cyberpunk UI
-- Ícones: Emojis nativos
-- Fontes: System fonts
 
 ---
 
